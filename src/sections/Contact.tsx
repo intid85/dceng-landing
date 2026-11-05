@@ -41,7 +41,7 @@ export default function Contact() {
               <h2 className="mt-6 font-display text-5xl font-bold uppercase italic leading-none text-white md:text-7xl">
                 도면 있으면
                 <br />
-                <span className="text-outline-steel">볂주세요</span>
+                <span className="text-outline-steel">{'\uBCF4\uB0B4\uC8FC\uC138\uC694'}</span>
               </h2>
             </Reveal>
             <Reveal delay={160}>
